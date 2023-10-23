@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BF82393-BAFC-4937-A074-60DE8D209634"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "242D7093-578E-4843-94BE-01947F3D12C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaKoombea/ApiCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "242D7093-578E-4843-94BE-01947F3D12C9 - 405849bf6f09e4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PruebaKoombea.ApiCall.fetchUsers&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;() async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "PruebaKoombea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefranciscogarayzarate/Documents/PruebaKoombea/PruebaKoombea/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "242D7093-578E-4843-94BE-01947F3D12C9 - 405849bf6f09e4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PruebaKoombea.ApiCall.fetchUsers&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;() async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "PruebaKoombea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefranciscogarayzarate/Documents/PruebaKoombea/PruebaKoombea/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "242D7093-578E-4843-94BE-01947F3D12C9 - 405849bf6f09e4b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PruebaKoombea.ApiCall.fetchUsers&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;() async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "PruebaKoombea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefranciscogarayzarate/Documents/PruebaKoombea/PruebaKoombea/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E319D97D-6483-4AB8-B9B2-2A4125AA1B48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaKoombea/ApiCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF0D55FF-0D2B-4B51-BB03-1DA143DC9AAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PruebaKoombea/ApiCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF0D55FF-0D2B-4B51-BB03-1DA143DC9AAE - 405849bf6f09e28b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PruebaKoombea.ApiCall.fetchUsers&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;() async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "PruebaKoombea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefranciscogarayzarate/Documents/PruebaKoombea/PruebaKoombea/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1328">
+               </Location>
+               <Location
+                  uuid = "EF0D55FF-0D2B-4B51-BB03-1DA143DC9AAE - 73cfca0ece0f26c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PruebaKoombea.ApiCall.fetchUsers&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;() async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "PruebaKoombea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefranciscogarayzarate/Documents/PruebaKoombea/PruebaKoombea/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "2516">
+               </Location>
+               <Location
+                  uuid = "EF0D55FF-0D2B-4B51-BB03-1DA143DC9AAE - 1a3b0a49198c4728"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PruebaKoombea.ApiCall.fetchUsers&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;() async -&gt; Swift.Optional&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "PruebaKoombea"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jorgefranciscogarayzarate/Documents/PruebaKoombea/PruebaKoombea/ApiCall.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
